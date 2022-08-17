@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TouchSocket/0.3.5": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/TouchSocket.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/TouchSocket.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TouchSocket": "0.3.5"
+        },
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TouchSocket/0.3.5": {
+      "sha512": "WV1oS567IP1SuJp6TXNUfo3u/JkHZV4RkxWwDLYoei33WcjXgQgd3OIwIBNjY0PP3FST25becMwWN0xebm/kSw==",
+      "type": "package",
+      "path": "touchsocket/0.3.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net45/TouchSocket.dll",
+        "lib/net45/TouchSocket.xml",
+        "lib/net5.0/TouchSocket.dll",
+        "lib/net5.0/TouchSocket.xml",
+        "lib/netcoreapp3.1/TouchSocket.dll",
+        "lib/netcoreapp3.1/TouchSocket.xml",
+        "lib/netstandard2.0/TouchSocket.dll",
+        "lib/netstandard2.0/TouchSocket.xml",
+        "logo.png",
+        "touchsocket.0.3.5.nupkg.sha512",
+        "touchsocket.nuspec"
+      ]
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ClassLibrary1 >= 1.0.0",
+      "TouchSocket >= 0.3.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\XH\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\XH\\Desktop\\dapper-demo\\Touchsocket\\ClientConsoleApp\\ServerConsoleApp\\ServerConsoleApp.csproj",
+      "projectName": "ServerConsoleApp",
+      "projectPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\Touchsocket\\ClientConsoleApp\\ServerConsoleApp\\ServerConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\XH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\Touchsocket\\ClientConsoleApp\\ServerConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\XH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\XH\\Desktop\\dapper-demo\\Touchsocket\\ClientConsoleApp\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\Touchsocket\\ClientConsoleApp\\ClassLibrary1\\ClassLibrary1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "TouchSocket": {
+            "target": "Package",
+            "version": "[0.3.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

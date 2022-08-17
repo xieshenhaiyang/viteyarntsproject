@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5cmkTY7yCmZVRxhKwzeluJeAWTyrhLqxkAJE2uAlFxfanfGZLyAI4vABiNOKEAR5nEjSnugKK4Cm3D6BST/gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\XH\\Desktop\\dapper-demo\\Touchsocket\\ClientConsoleApp\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XH\\.nuget\\packages\\touchsocket\\0.3.5\\touchsocket.0.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}

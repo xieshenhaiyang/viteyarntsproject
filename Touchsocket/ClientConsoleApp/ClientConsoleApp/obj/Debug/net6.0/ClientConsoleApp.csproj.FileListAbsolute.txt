@@ -1,0 +1,17 @@
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\bin\Debug\net6.0\ClientConsoleApp.exe
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\bin\Debug\net6.0\ClientConsoleApp.deps.json
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\bin\Debug\net6.0\ClientConsoleApp.runtimeconfig.json
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\bin\Debug\net6.0\ClientConsoleApp.dll
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\bin\Debug\net6.0\ClientConsoleApp.pdb
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\bin\Debug\net6.0\TouchSocket.dll
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.csproj.AssemblyReference.cache
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.AssemblyInfoInputs.cache
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.AssemblyInfo.cs
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.csproj.CopyComplete
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.dll
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\refint\ClientConsoleApp.dll
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.pdb
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ClientConsoleApp.genruntimeconfig.cache
+C:\Users\XH\Desktop\dapper-demo\Touchsocket\ClientConsoleApp\ClientConsoleApp\obj\Debug\net6.0\ref\ClientConsoleApp.dll
