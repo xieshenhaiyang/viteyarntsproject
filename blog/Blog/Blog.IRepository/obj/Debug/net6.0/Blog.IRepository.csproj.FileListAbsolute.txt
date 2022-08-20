@@ -1,0 +1,15 @@
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\bin\Debug\net6.0\Blog.IRepository.deps.json
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\bin\Debug\net6.0\Blog.IRepository.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\bin\Debug\net6.0\Blog.IRepository.pdb
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\Blog.IRepository.csproj.AssemblyReference.cache
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\Blog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\Blog.IRepository.AssemblyInfoInputs.cache
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\Blog.IRepository.AssemblyInfo.cs
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\Blog.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\Blog.IRepository.csproj.CopyComplete
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\Blog.IRepository.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\refint\Blog.IRepository.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\Blog.IRepository.pdb
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IRepository\obj\Debug\net6.0\ref\Blog.IRepository.dll

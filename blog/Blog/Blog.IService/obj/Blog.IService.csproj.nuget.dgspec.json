@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IService\\Blog.IService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.Entity\\Blog.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.Entity\\Blog.Entity.csproj",
+        "projectName": "Blog.Entity",
+        "projectPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.Entity\\Blog.Entity.csproj",
+        "packagesPath": "C:\\Users\\XH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SqlSugar.IOC": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IRepository\\Blog.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IRepository\\Blog.IRepository.csproj",
+        "projectName": "Blog.IRepository",
+        "projectPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IRepository\\Blog.IRepository.csproj",
+        "packagesPath": "C:\\Users\\XH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.Entity\\Blog.Entity.csproj": {
+                "projectPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.Entity\\Blog.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IService\\Blog.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IService\\Blog.IService.csproj",
+        "projectName": "Blog.IService",
+        "projectPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IService\\Blog.IService.csproj",
+        "packagesPath": "C:\\Users\\XH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.Entity\\Blog.Entity.csproj": {
+                "projectPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.Entity\\Blog.Entity.csproj"
+              },
+              "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IRepository\\Blog.IRepository.csproj": {
+                "projectPath": "C:\\Users\\XH\\Desktop\\dapper-demo\\blog\\Blog\\Blog.IRepository\\Blog.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\bin\Debug\net6.0\Blog.IService.deps.json
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\bin\Debug\net6.0\Blog.IService.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\bin\Debug\net6.0\Blog.IService.pdb
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\bin\Debug\net6.0\Blog.IRepository.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\bin\Debug\net6.0\Blog.IRepository.pdb
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\Blog.IService.csproj.AssemblyReference.cache
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\Blog.IService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\Blog.IService.AssemblyInfoInputs.cache
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\Blog.IService.AssemblyInfo.cs
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\Blog.IService.csproj.CoreCompileInputs.cache
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\Blog.IService.csproj.CopyComplete
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\Blog.IService.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\refint\Blog.IService.dll
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\Blog.IService.pdb
+C:\Users\XH\Desktop\dapper-demo\blog\Blog\Blog.IService\obj\Debug\net6.0\ref\Blog.IService.dll
